@@ -1,0 +1,184 @@
+fileFormatVersion: 2
+guid: 80118075055fa704db80e1c9c54d3d49
+timeCreated: 1492892491
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Body
+    100004: Box002
+    100006: DirectConnectNode_2
+    100008: DirectConnectNode_2-DC_Shell
+    100010: hammer1
+    100012: IGES Model Data
+    100014: Key
+    100016: Lama 1
+    100018: Lama 2
+    100020: Line001
+    100022: Object001
+    100024: polymsh001
+    100026: Shape001
+    100028: Steel 1
+    100030: Wrench2
+    100032: Wrench2 1
+    100034: Board
+    100036: Elastan
+    100038: Hammer
+    100040: Scissors
+    100042: Wrench003
+    100044: Wrench1
+    100046: Wrench3
+    100048: Wrench4
+    400000: //RootNode
+    400002: Body
+    400004: Box002
+    400006: DirectConnectNode_2
+    400008: DirectConnectNode_2-DC_Shell
+    400010: hammer1
+    400012: IGES Model Data
+    400014: Key
+    400016: Lama 1
+    400018: Lama 2
+    400020: Line001
+    400022: Object001
+    400024: polymsh001
+    400026: Shape001
+    400028: Steel 1
+    400030: Wrench2
+    400032: Wrench2 1
+    400034: Board
+    400036: Elastan
+    400038: Hammer
+    400040: Scissors
+    400042: Wrench003
+    400044: Wrench1
+    400046: Wrench3
+    400048: Wrench4
+    2300000: Body
+    2300002: Box002
+    2300004: DirectConnectNode_2-DC_Shell
+    2300006: hammer1
+    2300008: Key
+    2300010: Lama 1
+    2300012: Lama 2
+    2300014: Object001
+    2300016: polymsh001
+    2300018: Steel 1
+    2300020: Line001
+    2300022: Board
+    2300024: Elastan
+    2300026: Hammer
+    2300028: Scissors
+    2300030: Wrench003
+    2300032: Wrench1
+    2300034: Wrench3
+    2300036: Wrench4
+    3300000: Body
+    3300002: Box002
+    3300004: DirectConnectNode_2-DC_Shell
+    3300006: hammer1
+    3300008: Key
+    3300010: Lama 1
+    3300012: Lama 2
+    3300014: Object001
+    3300016: polymsh001
+    3300018: Steel 1
+    3300020: Line001
+    3300022: Board
+    3300024: Elastan
+    3300026: Hammer
+    3300028: Scissors
+    3300030: Wrench003
+    3300032: Wrench1
+    3300034: Wrench3
+    3300036: Wrench4
+    4300000: hammer1
+    4300002: Steel 1
+    4300004: Lama 1
+    4300006: Body
+    4300008: Lama 2
+    4300010: Object001
+    4300012: DirectConnectNode_2-DC_Shell
+    4300014: Key
+    4300016: polymsh001
+    4300018: Box002
+    4300020: Line001
+    4300022: Hammer
+    4300024: Scissors
+    4300026: Elastan
+    4300028: Board
+    4300030: Wrench1
+    4300032: Wrench003
+    4300034: Wrench3
+    4300036: Wrench4
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

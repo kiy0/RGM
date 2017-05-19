@@ -1,0 +1,160 @@
+fileFormatVersion: 2
+guid: a92b3f7f355ce12499ea4bf3cce2c3bb
+timeCreated: 1494446739
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: CamsRodsSprings
+    100002: Crankshaft001
+    100004: Gear_050
+    100006: Gear_051
+    100008: Gear_052
+    100010: //RootNode
+    100012: GearShaft001
+    100014: GearsPulleys
+    100016: MotorMount005
+    100018: MotorMount006
+    100020: MotorMount007
+    100022: MotorMount008
+    100024: Platform001
+    100026: Support010
+    100028: Support011
+    100030: Support012
+    100032: Support013
+    100034: Table
+    100036: ValveCAM_B001
+    400000: CamsRodsSprings
+    400002: Crankshaft001
+    400004: Gear_050
+    400006: Gear_051
+    400008: Gear_052
+    400010: //RootNode
+    400012: GearShaft001
+    400014: GearsPulleys
+    400016: MotorMount005
+    400018: MotorMount006
+    400020: MotorMount007
+    400022: MotorMount008
+    400024: Platform001
+    400026: Support010
+    400028: Support011
+    400030: Support012
+    400032: Support013
+    400034: Table
+    400036: ValveCAM_B001
+    2300000: Crankshaft001
+    2300002: Gear_050
+    2300004: Gear_051
+    2300006: Gear_052
+    2300008: GearShaft001
+    2300010: MotorMount005
+    2300012: MotorMount006
+    2300014: MotorMount007
+    2300016: MotorMount008
+    2300018: Platform001
+    2300020: Support010
+    2300022: Support011
+    2300024: Support012
+    2300026: Support013
+    2300028: ValveCAM_B001
+    3300000: Crankshaft001
+    3300002: Gear_050
+    3300004: Gear_051
+    3300006: Gear_052
+    3300008: GearShaft001
+    3300010: MotorMount005
+    3300012: MotorMount006
+    3300014: MotorMount007
+    3300016: MotorMount008
+    3300018: Platform001
+    3300020: Support010
+    3300022: Support011
+    3300024: Support012
+    3300026: Support013
+    3300028: ValveCAM_B001
+    4300000: Platform001
+    4300002: Support010
+    4300004: Support011
+    4300006: Support012
+    4300008: Support013
+    4300010: GearShaft001
+    4300012: Gear_050
+    4300014: Gear_051
+    4300016: Gear_052
+    4300018: MotorMount008
+    4300020: ValveCAM_B001
+    4300022: Crankshaft001
+    4300024: MotorMount005
+    4300026: MotorMount006
+    4300028: MotorMount007
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

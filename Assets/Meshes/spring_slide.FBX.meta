@@ -1,0 +1,203 @@
+fileFormatVersion: 2
+guid: b4138804d0f7fa3439f6e747ba53fd21
+timeCreated: 1490895279
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Cylinder001
+    100002: Spring001
+    100004: //RootNode
+    100006: Borderpt00
+    100008: Borderpt004
+    100010: BorderPt1
+    100012: BorderPt2
+    100014: Borderpt3
+    100016: Springpart1
+    100018: springPart1Row2
+    100020: springPart1row3
+    100022: springPart1row4
+    100024: springPart1row5
+    100026: springPart1row6
+    100028: SpringPart1row7
+    100030: SpringPart1Row8
+    100032: SpringPart1row9
+    100034: springPart2
+    100036: SpringPart2ow3
+    100038: SpringPart2row2
+    100040: SpringPart2row4
+    100042: SpringPart2row5
+    100044: SpringPart2row6
+    100046: SpringPart2row7
+    100048: SpringPart2row8
+    100050: SpringPart2row9
+    400000: Cylinder001
+    400002: Spring001
+    400004: //RootNode
+    400006: Borderpt00
+    400008: Borderpt004
+    400010: BorderPt1
+    400012: BorderPt2
+    400014: Borderpt3
+    400016: Springpart1
+    400018: springPart1Row2
+    400020: springPart1row3
+    400022: springPart1row4
+    400024: springPart1row5
+    400026: springPart1row6
+    400028: SpringPart1row7
+    400030: SpringPart1Row8
+    400032: SpringPart1row9
+    400034: springPart2
+    400036: SpringPart2ow3
+    400038: SpringPart2row2
+    400040: SpringPart2row4
+    400042: SpringPart2row5
+    400044: SpringPart2row6
+    400046: SpringPart2row7
+    400048: SpringPart2row8
+    400050: SpringPart2row9
+    2300000: Cylinder001
+    2300002: Spring001
+    2300004: Borderpt00
+    2300006: Borderpt004
+    2300008: BorderPt1
+    2300010: BorderPt2
+    2300012: Borderpt3
+    2300014: Springpart1
+    2300016: springPart1Row2
+    2300018: springPart1row3
+    2300020: springPart1row4
+    2300022: springPart1row5
+    2300024: springPart1row6
+    2300026: SpringPart1row7
+    2300028: SpringPart1Row8
+    2300030: SpringPart1row9
+    2300032: springPart2
+    2300034: SpringPart2ow3
+    2300036: SpringPart2row2
+    2300038: SpringPart2row4
+    2300040: SpringPart2row5
+    2300042: SpringPart2row6
+    2300044: SpringPart2row7
+    2300046: SpringPart2row8
+    2300048: SpringPart2row9
+    3300000: Cylinder001
+    3300002: Spring001
+    3300004: Borderpt00
+    3300006: Borderpt004
+    3300008: BorderPt1
+    3300010: BorderPt2
+    3300012: Borderpt3
+    3300014: Springpart1
+    3300016: springPart1Row2
+    3300018: springPart1row3
+    3300020: springPart1row4
+    3300022: springPart1row5
+    3300024: springPart1row6
+    3300026: SpringPart1row7
+    3300028: SpringPart1Row8
+    3300030: SpringPart1row9
+    3300032: springPart2
+    3300034: SpringPart2ow3
+    3300036: SpringPart2row2
+    3300038: SpringPart2row4
+    3300040: SpringPart2row5
+    3300042: SpringPart2row6
+    3300044: SpringPart2row7
+    3300046: SpringPart2row8
+    3300048: SpringPart2row9
+    4300000: Spring001
+    4300002: Cylinder001
+    4300004: Springpart1
+    4300006: Borderpt00
+    4300008: springPart2
+    4300010: springPart1Row2
+    4300012: springPart1row3
+    4300014: springPart1row4
+    4300016: springPart1row5
+    4300018: springPart1row6
+    4300020: SpringPart1row7
+    4300022: SpringPart1Row8
+    4300024: SpringPart1row9
+    4300026: BorderPt1
+    4300028: BorderPt2
+    4300030: Borderpt3
+    4300032: Borderpt004
+    4300034: SpringPart2row2
+    4300036: SpringPart2ow3
+    4300038: SpringPart2row4
+    4300040: SpringPart2row5
+    4300042: SpringPart2row6
+    4300044: SpringPart2row7
+    4300046: SpringPart2row8
+    4300048: SpringPart2row9
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
